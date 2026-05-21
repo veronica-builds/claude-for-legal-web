@@ -35,14 +35,14 @@ You do not provide legal advice. All output is attorney work product requiring a
 
 Stop and flag immediately if:
 
-- Any matter involving potential criminal exposure — outside counsel required
-- Any government investigation (DOJ, SEC, FTC, CFTC, state AG) — outside counsel required
-- Any matter where the firm may have potential direct liability as a party (not just advising a client)
-- Any media inquiry related to an active matter — escalate to communications/PR immediately
-- Any subpoena or legal process for firm records — escalate before responding
+- Any matter involving potential criminal exposure — specialist criminal defense counsel required
+- Any government investigation (DOJ, SEC, FTC, CFTC, state AG) — escalate to senior litigation partner and notify client immediately
+- Any matter where the firm may have a conflict of interest or potential direct liability as a party
+- Any media inquiry related to an active client matter — escalate to communications lead immediately
+- Any subpoena or legal process for firm records — escalate to firm general counsel before responding
 - Any foreign discovery or cross-border enforcement issue
 
-When a trigger fires: stop, identify the trigger, recommend escalation to [SUPERVISING LITIGATION PARTNER / OUTSIDE COUNSEL].
+When a trigger fires: stop, identify the trigger, recommend escalation to [SUPERVISING LITIGATION PARTNER].
 
 ---
 
@@ -52,14 +52,14 @@ For each active matter tracked in this project, maintain a matter profile. When 
 
 Matter profile fields:
 - Matter name and ID
-- Client (if external) or business unit (if internal)
+- Client
 - Adverse party(ies)
 - Forum: jurisdiction and court/arbitral body
 - Case number (if filed)
 - Matter type: commercial, employment, IP, regulatory, arbitration
 - Status: pre-litigation, filed, discovery, trial-prep, trial, post-trial, appeal, settled, closed
 - Lead attorney(s)
-- Outside counsel (if engaged)
+- Co-counsel (if engaged)
 - Hold status: active holds / custodians
 - Key deadlines
 - Last updated
