@@ -1,4 +1,4 @@
-# claude-for-legal: Claude Projects Adaptation
+# Claude Projects Adaptation
 
 A full adaptation of the Anthropic claude-for-legal plugin suite for law firms using **claude.ai (Claude Projects)** — no Claude Code, no MCP servers, no slash commands required.
 
