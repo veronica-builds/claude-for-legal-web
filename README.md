@@ -11,7 +11,7 @@ A full adaptation of the Anthropic claude-for-legal plugin suite for law firms u
 ## Folder Structure
 
 ```
-claude-for-legal-projects/
+claude-for-legal-web/
 ├── commercial-legal/
 │   ├── instructions.md                        ← paste into Project instructions
 │   └── knowledge-base/
@@ -64,9 +64,9 @@ claude-for-legal-projects/
 
 ---
 
-## Setup: One Project per Practice Area
+## Setup: One Project per Practice Area per Client
 
-Each folder in this repo = one Claude Project on claude.ai. Do not combine practice areas into a single project.
+Each folder in this repo = one Claude Project on claude.ai. Do not combine practice areas, clients, or matters into a single project.
 
 ### Step 1: Create the Project
 
