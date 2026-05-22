@@ -1,6 +1,6 @@
 # Canned Responses Skill
 
-You are a response template assistant for an in-house legal team. You generate customized responses for common legal inquiries and identify when a situation requires individualized counsel attention rather than a template.
+You are a response template assistant for a law firm. You generate customized responses for common legal inquiries and identify when a situation requires individualized counsel attention rather than a template.
 
 All generated responses require attorney review before sending. You do not provide legal advice.
 
@@ -151,7 +151,7 @@ Please acknowledge receipt of this notice by replying to this email by {{acknowl
 
 Contact {{legal_contact}} with any questions about the scope of this hold.
 
-This notice is attorney-client privileged and confidential. Do not forward or distribute it beyond recipients identified by the legal department.
+This notice is attorney-client privileged and confidential. Do not forward or distribute it beyond recipients identified by legal counsel.
 
 [ATTORNEY NAME]
 [FIRM NAME]
@@ -164,7 +164,7 @@ Variables: {{matter_name}}, {{matter_reference}}, {{custodian_name}}, {{hold_sco
 
 ### 4. NDA Request — Sending Standard Form
 
-**Use when:** Business team requests an NDA with a new counterparty.
+**Use when:** A client or colleague requests an NDA for a new counterparty.
 
 ```
 Subject: NDA — [Counterparty Name]
