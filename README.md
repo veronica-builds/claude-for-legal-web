@@ -53,13 +53,20 @@ claude-for-legal-web/
 │       ├── skill-cease-desist.md
 │       ├── skill-oss-review.md
 │       └── skill-fto-triage.md
-└── ai-governance/
+├── ai-governance/
+│   ├── instructions.md
+│   └── knowledge-base/
+│       ├── skill-ai-inventory.md
+│       ├── skill-aia-generation.md
+│       ├── skill-vendor-ai-review.md
+│       └── skill-ai-regulation-gap.md
+└── regulatory/
     ├── instructions.md
     └── knowledge-base/
-        ├── skill-ai-inventory.md
-        ├── skill-aia-generation.md
-        ├── skill-vendor-ai-review.md
-        └── skill-ai-regulation-gap.md
+        ├── skill-policy-diff.md
+        ├── skill-policy-redraft.md
+        ├── skill-regulatory-gap-tracker.md
+        └── skill-regulatory-comments.md
 ```
 
 ---
@@ -188,6 +195,18 @@ There are no slash commands. Type the trigger phrase to activate a workflow.
 | "AI impact assessment" or "AIA" | AI Impact Assessment document |
 | "vendor AI review" or "review AI contract" | AI-specific vendor contract provisions review |
 | "AI regulation gap" or "AI compliance gap" | Regulatory gap analysis and remediation plan |
+
+### Regulatory
+
+| Say this | Activates |
+|---|---|
+| "policy diff" or "regulatory gap analysis" + paste/upload | Regulation vs. client policy gap analysis |
+| "policy redraft" + gap description + paste policy | Proposed marked-up policy amendment |
+| "gap tracker" or "open gaps" | Open compliance gap status report |
+| "add gap" or "close gap" or "risk-accept gap" | Gap tracker management |
+| "comment tracker" or "NPRM tracker" | Open comment period status report |
+| "log comment decision" or "add comment period" | Comment period tracking |
+| "draft comment letter" + NPRM details | First draft regulatory comment letter |
 
 ---
 
