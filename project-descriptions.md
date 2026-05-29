@@ -37,3 +37,9 @@ When creating each project on claude.ai, use the following values for the "What 
 **AI Governance**
 - Name: `AI Governance Assistant`
 - Description: Support the AI governance team with EU AI Act risk tier classification, AI impact assessments, vendor AI contract review, and regulatory gap analysis for new AI regulations.
+
+---
+
+**Regulatory**
+- Name: `Regulatory Assistant`
+- Description: Support the regulatory practice group with gap analysis between new regulations and client policies, proposed policy redrafts, NPRM comment period tracking, and regulatory comment letter drafting.
